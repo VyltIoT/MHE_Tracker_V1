@@ -1,0 +1,17 @@
+Added Component: Designator=J1(6Pin_TerminalBlock_5.08P)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(6Pin_TerminalBlock_5.08P)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5VIN Pin=J1-1
+Added Pin To Net: NetName=IR_IN Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=5VIN Pin=J2-1
+Added Pin To Net: NetName=ENC_IN_A Pin=J2-2
+Added Pin To Net: NetName=ENC_IN_B Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Member To Class: ClassName=Controller Member=Component J1 Terminal_Block_3Pin_2.54P
+Added Member To Class: ClassName=Controller Member=Component J2 Terminal_Block_4Pin_2.54P

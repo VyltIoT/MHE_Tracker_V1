@@ -1,0 +1,177 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=3V3 Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=3V3 Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=3V3 Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=M1-1
+Removed Pin From Net: NetName=GND Pin=M1-2
+Removed Pin From Net: NetName=3V3 Pin=M1-3
+Removed Pin From Net: NetName=EN Pin=M1-8
+Removed Pin From Net: NetName=BATT_ADC Pin=M1-12
+Removed Pin From Net: NetName=IR_OUT Pin=M1-15
+Removed Pin From Net: NetName=SCL Pin=M1-16
+Removed Pin From Net: NetName=SDA Pin=M1-18
+Removed Pin From Net: NetName=SPI_SS Pin=M1-19
+Removed Pin From Net: NetName=IO0 Pin=M1-21
+Removed Pin From Net: NetName=TXD1 Pin=M1-25
+Removed Pin From Net: NetName=RXD1 Pin=M1-26
+Removed Pin From Net: NetName=GND Pin=M1-27
+Removed Pin From Net: NetName=SPI_SCLK Pin=M1-30
+Removed Pin From Net: NetName=SPI_MOSI Pin=M1-31
+Removed Pin From Net: NetName=SPI_MISO Pin=M1-32
+Removed Pin From Net: NetName=TXD0 Pin=M1-35
+Removed Pin From Net: NetName=RXD0 Pin=M1-36
+Removed Pin From Net: NetName=GND Pin=M1-38
+Removed Pin From Net: NetName=GND Pin=M1-39
+Removed Pin From Net: NetName=GND Pin=M1-40
+Removed Pin From Net: NetName=GND Pin=M1-41
+Removed Pin From Net: NetName=GND Pin=M1-42
+Removed Pin From Net: NetName=GND Pin=M1-43
+Removed Pin From Net: NetName=GND Pin=M1-44
+Removed Pin From Net: NetName=GND Pin=M1-45
+Removed Pin From Net: NetName=GND Pin=M1-46
+Removed Pin From Net: NetName=GND Pin=M1-47
+Removed Pin From Net: NetName=GND Pin=M1-48
+Removed Pin From Net: NetName=GND Pin=M1-49
+Removed Pin From Net: NetName=GND Pin=M1-50
+Removed Pin From Net: NetName=GND Pin=M1-51
+Removed Pin From Net: NetName=GND Pin=M1-52
+Removed Pin From Net: NetName=GND Pin=M1-53
+Removed Pin From Net: NetName=GND Pin=M1-54
+Removed Pin From Net: NetName=GND Pin=M1-55
+Removed Member From Class: ClassName=Controller Member=C1
+Removed Member From Class: ClassName=Controller Member=C2
+Removed Member From Class: ClassName=Controller Member=C3
+Removed Member From Class: ClassName=M1_Nets Member=3V3
+Removed Member From Class: ClassName=M1_Nets Member=EN
+Removed Member From Class: ClassName=M1_Nets Member=GND
+Removed Member From Class: ClassName=M1_Nets Member=IO0
+Removed Member From Class: ClassName=M1_Nets Member=LED_SERVER_ACT
+Removed Member From Class: ClassName=Q4_Nets Member=LED_SERVER_ACT
+Removed Member From Class: ClassName=M1_Nets Member=SPI_MOSI
+Change Component Footprint: Designator=M1 Old Footprint=ESP32_MINI_1 New Footprint=DFR0654
+Change Component Comment : Designator=M1 Old Comment=ERP_140-3 New Comment=FireBeetle_32E
+Change Component Kind : Designator=J5 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=J11 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=J1 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=J4 Old Kind=Standard New Kind=Standard (No BOM)
+Change component parameters: Designator = "J3" ("J3"); Footprint = "KLDX-0202-AC"; UniqueID = "\SBQMXGWH" ("\SBQMXGWH")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Kycon, Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "KLDX-0202-AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "NA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "M1" ("M1"); Footprint = "ESP32_MINI_1"; UniqueID = "\ZAJBATNB" ("\ZAJBATNB")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "DFRobot"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "DFR0654"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RES_0603"; UniqueID = "\SGTPKDIH" ("\SGTPKDIH")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RES_0603"; UniqueID = "\TRSPKQAA" ("\TRSPKQAA")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RES_0603"; UniqueID = "\SIBQAKWX" ("\SIBQAKWX")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RES_0603"; UniqueID = "\IQOVVSFR" ("\IQOVVSFR")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RES_0603"; UniqueID = "\LYXYOIUG" ("\LYXYOIUG")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RES_0603"; UniqueID = "\GDJNPAXS" ("\GDJNPAXS")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "RES_0603"; UniqueID = "\QMBQBYYO" ("\QMBQBYYO")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "RES_0603"; UniqueID = "\MQOXPMVL" ("\MQOXPMVL")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RES_0603"; UniqueID = "\TNYXZJBE" ("\TNYXZJBE")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "RES_0603"; UniqueID = "\GFXDALIG" ("\GFXDALIG")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-072KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "RESC3115X06N"; UniqueID = "\XEUFEPHJ" ("\XEUFEPHJ")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier  1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier  Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "RES_0603"; UniqueID = "\OVOYSPUM" ("\OVOYSPUM")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-073K3L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3k3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "RES_0603"; UniqueID = "\YCSIQKIT" ("\YCSIQKIT")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "ZD1" ("ZD1"); Footprint = "DDZ79"; UniqueID = "\RJSWECDJ" ("\RJSWECDJ")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "DDZ9684-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "DDZ9684-7"; VariantName = "[No Variations]"
+Change component parameters: Designator = "ZD2" ("ZD2"); Footprint = "DDZ79"; UniqueID = "\SVOZIZIB" ("\SVOZIZIB")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "DDZ9684-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "DDZ9684-7"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SPI_SCLK Pin=M1-6
+Added Pin To Net: NetName=SPI_MISO Pin=M1-7
+Added Pin To Net: NetName=SPI_MISO Pin=M1-8
+Added Pin To Net: NetName=TXD1 Pin=M1-11
+Added Pin To Net: NetName=SPI_SS Pin=M1-12
+Added Pin To Net: NetName=RXD0 Pin=M1-17
+Added Pin To Net: NetName=TXD0 Pin=M1-18
+Added Pin To Net: NetName=RXD1 Pin=M1-19
+Added Pin To Net: NetName=BATT_ADC Pin=M1-23
+Added Pin To Net: NetName=IR_OUT Pin=M1-24
+Added Pin To Net: NetName=SDA Pin=M1-28
+Added Pin To Net: NetName=SCL Pin=M1-29
+Added Pin To Net: NetName=LED_ACT Pin=M1-25
+Added Pin To Net: NetName=LED_ACT Pin=Q4-1
+Added Net: Name=LED_ACT
+Added Member To Class: ClassName=M1_Nets Member=Wire LED_ACT
+Added Member To Class: ClassName=Q4_Nets Member=Wire LED_ACT

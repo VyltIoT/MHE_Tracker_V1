@@ -1,0 +1,33 @@
+Added Component: Designator=M1(DFR0654)
+Add component (AddParameter): Name = "Manufacturer"; Value = "DFRobot"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "DFR0654"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=M2(DS3231_HW-084)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Generic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "HW-084(DS3231)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "6 Pin TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "HW-084"; VariantName = "[No Variations]"
+Added Component: Designator=M3(SEN0409)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "DFRobot"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "SEN0409"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LIS2DW12"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IR_OUT Pin=M1-24
+Added Pin To Net: NetName=SDA Pin=M1-28
+Added Pin To Net: NetName=SCL Pin=M1-29
+Added Pin To Net: NetName=GND Pin=M1-30
+Added Pin To Net: NetName=3V3 Pin=M1-31
+Added Pin To Net: NetName=5VIN Pin=M1-32
+Added Pin To Net: NetName=GND Pin=M2-1
+Added Pin To Net: NetName=3V3 Pin=M2-2
+Added Pin To Net: NetName=SDA Pin=M2-3
+Added Pin To Net: NetName=SCL Pin=M2-4
+Added Pin To Net: NetName=3V3 Pin=M3-1
+Added Pin To Net: NetName=GND Pin=M3-2
+Added Pin To Net: NetName=SCL Pin=M3-3
+Added Pin To Net: NetName=SDA Pin=M3-4
+Added Member To Class: ClassName=Controller Member=Component M1 FireBeetle_32E
+Added Member To Class: ClassName=Controller Member=Component M2 DS3231_HW-084
+Added Member To Class: ClassName=Controller Member=Component M3 SEN0409

@@ -1,0 +1,157 @@
+Removed Member From Class: ClassName=R4_Nets Member=3V3
+Removed Member From Class: ClassName=M1_Nets Member=BATT_ADC
+Removed Member From Class: ClassName=M1_Nets Member=LED_ACT
+Removed Member From Class: ClassName=R4_Nets Member=NetD2_2
+Removed Member From Class: ClassName=M1_Nets Member=RXD0
+Removed Member From Class: ClassName=M1_Nets Member=RXD1
+Removed Member From Class: ClassName=M1_Nets Member=SPI_MISO
+Removed Member From Class: ClassName=M1_Nets Member=SPI_SCLK
+Removed Member From Class: ClassName=M1_Nets Member=SPI_SS
+Removed Member From Class: ClassName=M1_Nets Member=TXD0
+Removed Member From Class: ClassName=M1_Nets Member=TXD1
+Added Component: Designator=J1(6Pin_TerminalBlock_5.08P)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(6Pin_TerminalBlock_5.08P)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220R"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220R"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220R"; VariantName = "[No Variations]"
+Added Component: Designator=U1(PC817_DIP)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(PC817_DIP)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(PC817_DIP)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IR_IN Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=M1-30
+Added Pin To Net: NetName=3V3 Pin=M1-31
+Added Pin To Net: NetName=IR_OUT Pin=R1-1
+Added Pin To Net: NetName=3V3 Pin=R1-2
+Added Pin To Net: NetName=IR_IN Pin=R2-2
+Added Pin To Net: NetName=3V3 Pin=R3-2
+Added Pin To Net: NetName=3V3 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=IR_OUT Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=5VIN Pin=J1-1
+Added Pin To Net: NetName=5VIN Pin=J2-1
+Added Pin To Net: NetName=5VIN Pin=M1-32
+Added Pin To Net: NetName=5VIN Pin=R5-2
+Added Pin To Net: NetName=5VIN Pin=R6-2
+Added Net: Name=5VIN
+Added Pin To Net: NetName=ENC_A_OUT Pin=R3-1
+Added Pin To Net: NetName=ENC_A_OUT Pin=U2-4
+Added Net: Name=ENC_A_OUT
+Added Pin To Net: NetName=ENC_B_OUT Pin=R7-1
+Added Pin To Net: NetName=ENC_B_OUT Pin=U3-4
+Added Net: Name=ENC_B_OUT
+Added Pin To Net: NetName=ENC_IN_A Pin=J2-2
+Added Pin To Net: NetName=ENC_IN_A Pin=R4-2
+Added Pin To Net: NetName=ENC_IN_A Pin=R6-1
+Added Net: Name=ENC_IN_A
+Added Pin To Net: NetName=ENC_IN_B Pin=J2-3
+Added Pin To Net: NetName=ENC_IN_B Pin=R5-1
+Added Pin To Net: NetName=ENC_IN_B Pin=R8-2
+Added Net: Name=ENC_IN_B
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-1
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U2-1
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U3-1
+Added Net: Name=NetR8_1
+Added Class: Name=J1_Nets
+Added Class: Name=J2_Nets
+Added Class: Name=R1_Nets
+Added Class: Name=R2_Nets
+Added Class: Name=R3_Nets
+Added Class: Name=R5_Nets
+Added Class: Name=R6_Nets
+Added Class: Name=R7_Nets
+Added Class: Name=R8_Nets
+Added Class: Name=U1_Nets
+Added Class: Name=U2_Nets
+Added Class: Name=U3_Nets
+Added Member To Class: ClassName=Controller Member=Component J1 Terminal_Block_3Pin_2.54P
+Added Member To Class: ClassName=Controller Member=Component J2 Terminal_Block_4Pin_2.54P
+Added Member To Class: ClassName=Controller Member=Component M3 SEN0409
+Added Member To Class: ClassName=Controller Member=Component R1 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R2 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R3 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R4 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R5 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R6 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R7 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R8 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component U1 PC817_DIP
+Added Member To Class: ClassName=Controller Member=Component U2 PC817_DIP
+Added Member To Class: ClassName=Controller Member=Component U3 PC817_DIP
+Added Member To Class: ClassName=M1_Nets Member=Wire 3V3
+Added Member To Class: ClassName=M1_Nets Member=Wire 5VIN
+Added Member To Class: ClassName=R4_Nets Member=Wire ENC_IN_A
+Added Member To Class: ClassName=M1_Nets Member=Wire GND
+Added Member To Class: ClassName=R4_Nets Member=Wire NetR4_1
+Added Rule: Name=Schematic Supply Nets_1
