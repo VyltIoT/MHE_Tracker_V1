@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=J1_Nets Member=5V0
+Added Pin To Net: NetName=5VIN Pin=J1-1
+Added Member To Class: ClassName=J1_Nets Member=Wire 5VIN

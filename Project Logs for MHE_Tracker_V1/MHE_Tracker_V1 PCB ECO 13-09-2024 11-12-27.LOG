@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=5VIN Pin=J1-1
+Removed Member From Class: ClassName=J1_Nets Member=5VIN
+Removed Member From Class: ClassName=R10_Nets Member=NetR3_1
+Removed Member From Class: ClassName=R11_Nets Member=NetR7_1
+Added Pin To Net: NetName=5V0 Pin=J1-1
+Added Net: Name=5V0
+Added Member To Class: ClassName=J1_Nets Member=Wire 5V0
+Added Member To Class: ClassName=R10_Nets Member=Wire ENC_A_OUT
+Added Member To Class: ClassName=U2_Nets Member=Wire ENC_A_OUT
+Added Member To Class: ClassName=R11_Nets Member=Wire ENC_B_OUT
+Added Member To Class: ClassName=U3_Nets Member=Wire ENC_B_OUT
+Added Rule: Name=Schematic Supply Nets
